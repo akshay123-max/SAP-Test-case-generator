@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+sentence-transformers
+transformers
+torch
+langdetect
+PyMuPDF
+python-docx
+openpyxl
